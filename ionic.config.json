@@ -1,0 +1,7 @@
+{
+  "name": "appdlux",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
